@@ -58,7 +58,7 @@
    "provides" : {
       "Mojolicious::Plugin::CORS" : {
          "file" : "lib/Mojolicious/Plugin/CORS.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -73,7 +73,7 @@
          "web" : "https://github.com/sharabash/mojolicious-plugin-cors"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:AMIRITE",
    "x_contributors" : [
       "Nour Sharabash <nour.sharabash@gmail.com>"
